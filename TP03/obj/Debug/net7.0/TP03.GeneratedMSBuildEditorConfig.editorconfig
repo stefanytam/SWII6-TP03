@@ -9,41 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TP03
 build_property.RootNamespace = TP03
-build_property.ProjectDir = D:\IFSP\3 ano\2 semestre\SWII6\TP3\TP03\
+build_property.ProjectDir = C:\Users\eduarda.matias\Downloads\SWII6-TP03\TP03\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\IFSP\3 ano\2 semestre\SWII6\TP3\TP03
+build_property.MSBuildProjectDirectory = C:\Users\eduarda.matias\Downloads\SWII6-TP03\TP03
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/IFSP/3 ano/2 semestre/SWII6/TP3/TP03/Views/Produtos/Create.cshtml]
+[C:/Users/eduarda.matias/Downloads/SWII6-TP03/TP03/Views/Produtos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IFSP/3 ano/2 semestre/SWII6/TP3/TP03/Views/Produtos/Details.cshtml]
+[C:/Users/eduarda.matias/Downloads/SWII6-TP03/TP03/Views/Produtos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduarda.matias/Downloads/SWII6-TP03/TP03/Views/Produtos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IFSP/3 ano/2 semestre/SWII6/TP3/TP03/Views/Produtos/Index.cshtml]
+[C:/Users/eduarda.matias/Downloads/SWII6-TP03/TP03/Views/Produtos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduarda.matias/Downloads/SWII6-TP03/TP03/Views/Produtos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IFSP/3 ano/2 semestre/SWII6/TP3/TP03/Views/Shared/Error.cshtml]
+[C:/Users/eduarda.matias/Downloads/SWII6-TP03/TP03/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IFSP/3 ano/2 semestre/SWII6/TP3/TP03/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/eduarda.matias/Downloads/SWII6-TP03/TP03/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IFSP/3 ano/2 semestre/SWII6/TP3/TP03/Views/_ViewImports.cshtml]
+[C:/Users/eduarda.matias/Downloads/SWII6-TP03/TP03/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IFSP/3 ano/2 semestre/SWII6/TP3/TP03/Views/_ViewStart.cshtml]
+[C:/Users/eduarda.matias/Downloads/SWII6-TP03/TP03/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IFSP/3 ano/2 semestre/SWII6/TP3/TP03/Views/Shared/_Layout.cshtml]
+[C:/Users/eduarda.matias/Downloads/SWII6-TP03/TP03/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-3wddft1iop
